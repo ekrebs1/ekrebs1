@@ -1,5 +1,6 @@
 - 👩🏼‍💻  Hi, I’m Erica!
 - 📍  Baton Rouge, La
+- 🌐  Fullstack Academy, 2021
 - 🐅  LSU Graduate, 2015
 - 📫 : ericakrebs1@gmail.com
 
