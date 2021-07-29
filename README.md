@@ -2,6 +2,7 @@
 - 📍  Baton Rouge, La
 - 🖥  Fullstack Academy, 2021
 - 🐅  LSU Graduate, 2015
+- 🔗  www.linkedin.com/in/ekrebs1
 - 📫  ericakrebs1@gmail.com
 
 
