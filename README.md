@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails and AWS.**
 
-- 👩🏼‍💻 All of my projects are available at [www.ericakrebs.com](www.ericakrebs.com)
+- 👩🏼‍💻 All of my projects are available on [My Website](www.ericakrebs.com)
 
 - 📫 How to reach me **ericakrebs1@gmail.com**
 
