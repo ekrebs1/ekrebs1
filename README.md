@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm Erica!</h1>
+<h1 align="center">Hi There 👋, I'm Erica!</h1>
 <h3 align="center">A passionate Full Stack Developer from Louisiana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekrebs1&label=Profile%20views&color=0e75b6&style=flat" alt="ekrebs1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ekrebs1&label=Profile%20views&color=0e75b6&style=flat" alt="ekrebs1" /> </p>
 
 - 🔭 I’m currently working on: **Coding w/ Java**
 
 - 🌱 I’m currently learning: **AWS**
 
-- 👩🏼‍💻 All of my projects are available on: [www.ericakrebs.com](https://www.ericakrebs.com/)
+- 👩🏼‍💻 My personal website: [www.ericakrebs.com](https://www.ericakrebs.com/)
 
 - 📫 How to reach me: **ericakrebs1@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-yxKeRy2Jcw2QEtipbngqKBuElXOpAHt/view?usp=sharing)
-
-- ⚡ Fun fact: **I fell in love with coding by accident and decided to change careers!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
