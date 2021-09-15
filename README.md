@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekrebs1&label=Profile%20views&color=0e75b6&style=flat" alt="ekrebs1" /> </p>
 
-- 🔭 I’m currently working on: **my portfolio website**
+- 🔭 I’m currently working on: **Programming w/ Java**
 
-- 🌱 I’m currently learning: **Ruby on Rails and AWS.**
+- 🌱 I’m currently learning: **AWS**
 
-- 👩🏼‍💻 All of my projects are available on: [My Website](https://www.ericakrebs.com/)
+- 👩🏼‍💻 All of my projects are available on: [www.ericakrebs.com](https://www.ericakrebs.com/)
 
 - 📫 How to reach me: **ericakrebs1@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-yxKeRy2Jcw2QEtipbngqKBuElXOpAHt/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-yxKeRy2Jcw2QEtipbngqKBuElXOpAHt/view?usp=sharing)
 
 - ⚡ Fun fact: **I fell in love with coding by accident and decided to change careers!**
 
