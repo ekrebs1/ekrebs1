@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **AWS**
 
-- 👩🏼‍💻 My personal website: [www.ericakrebs.com](https://www.ericakrebs.com/)
+- 👩🏼‍💻 My personal website: **[www.ericakrebs.com](https://www.ericakrebs.com/)**
 
 - 📫 How to reach me: **ericakrebs1@gmail.com**
 
