@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekrebs1&label=Profile%20views&color=0e75b6&style=flat" alt="ekrebs1" /> </p>
 
-- 🔭 I’m currently working on: **Programming w/ Java**
+- 🔭 I’m currently working on: **Coding w/ Java**
 
 - 🌱 I’m currently learning: **AWS**
 
